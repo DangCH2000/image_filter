@@ -33,6 +33,10 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ## Stand Out (Optional)
 
+### My EB Endpoint
+
+http://dangch1test-env-1.eba-gv3qs2uj.us-east-2.elasticbeanstalk.com/image_filtered?image_url=https://images.unsplash.com/photo-1662581871625-7dbd3ac1ca18?ixlib=rb-1.2.1%26ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D%26auto=format%26fit=crop%26w=500%26q=60
+
 ### Refactor the course RESTapi
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
